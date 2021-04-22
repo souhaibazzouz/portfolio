@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Souhaïb Azzouz.", "....sur cette image.","étudiant à l'EPHEC.", "un Développeur.", "un Athlète."],
+      strings: ["Souhaïb Azzouz.", "....  sur cette image.","étudiant à l'EPHEC.", "un Développeur.", "un Athlète."],
       typeSpeed: 100,
       loop: true,
     });
